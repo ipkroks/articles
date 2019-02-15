@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Обучение
 
  - [Цикл Дэвида Колба в жизни](https://habr.com/ru/post/159321/)
