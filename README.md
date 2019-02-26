@@ -13,3 +13,4 @@
 Книги
 
 - [Рекомендуемые книги от Хекслет](https://github.com/ipkroks/articles/blob/master/Books.md)
+- [Рекомендуемые книги от Антона Кучерова](https://idexter.ru/books/)
