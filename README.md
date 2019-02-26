@@ -7,6 +7,7 @@
  - [Composer для самых маленьких](https://habr.com/ru/post/439200/)
  - [Параллелизм против многопоточности против асинхронного программирования: разъяснение](https://habr.com/ru/post/337528/)
  - [PHPUnit для начинающих](https://phpprofi.ru/blogs/post/24)
+ - [CS50 от Гарварда](https://javarush.ru/quests/QUEST_HARVARD_CS50)
 
 
 Книги
