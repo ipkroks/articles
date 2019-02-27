@@ -14,3 +14,7 @@
 
 - [Рекомендуемые книги от Хекслет](https://github.com/ipkroks/articles/blob/master/Books.md)
 - [Рекомендуемые книги от Антона Кучерова](https://idexter.ru/books/)
+
+Sublime text 3
+
+- [Как удалить пустые строчки в коде, написанном в SublimeText](http://blogo-daru.ru/2015/10/07/kak-udalit-pustye-strochki-v-kode-napisannom-v-sublimetext/)
