@@ -8,6 +8,7 @@
  - [Параллелизм против многопоточности против асинхронного программирования: разъяснение](https://habr.com/ru/post/337528/)
  - [PHPUnit для начинающих](https://phpprofi.ru/blogs/post/24)
  - [CS50 от Гарварда](https://javarush.ru/quests/QUEST_HARVARD_CS50)
+ - [Основы Linux от основателя Gentoo. Часть 1. (Остальные 3 части внизу)](https://habr.com/ru/post/99041/)
 
 
 Книги
