@@ -15,6 +15,7 @@
 
 - [Рекомендуемые книги от Хекслет](https://github.com/ipkroks/articles/blob/master/Books.md)
 - [Рекомендуемые книги от Антона Кучерова](https://idexter.ru/books/)
+- [Рекомендуемые книги от Кирилла Мокевнина](https://github.com/mokevnin/railsify/wiki/Books)
 
 Sublime text 3
 
