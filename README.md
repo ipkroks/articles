@@ -11,6 +11,7 @@
 - [Основы Linux от основателя Gentoo. Часть 1. (Остальные 3 части внизу)](https://habr.com/ru/post/99041/)
 - [Git для чайников. Работа в команде]
 - [Конспекты книг от developer.uz](http://developer.uz)
+- [Семантическое версионирование](https://semver.org/lang/ru/)
 
 Книги
 
