@@ -13,6 +13,7 @@
 - [Конспекты книг от developer.uz](http://developer.uz)
 - [Семантическое версионирование](https://semver.org/lang/ru/)
 - [Как разобраться в Computer Science самостоятельно](https://tproger.ru/curriculum/computer-science-step-by-step/)
+- [Блог хорошего программиста обо всем и C#](http://sergeyteplyakov.blogspot.com/)
 
 Книги
 
