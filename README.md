@@ -24,6 +24,7 @@
 - [Лучшие книги по версии пользователей StackOverflow](http://www.dev-books.com)
 - [Книги и другие материалы для обучения](https://ru.stackoverflow.com/questions/454683/Книги-и-другие-материалы-для-обучения)
 - [12 книг по программированию с сортировкой по полезности](https://www.quora.com/What-are-some-books-a-programmer-must-read)
+- [Pro Git](https://git-scm.com/book/ru/v2)
 
 Sublime text 3
 
