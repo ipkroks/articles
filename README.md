@@ -9,7 +9,7 @@
 - [PHPUnit для начинающих](https://phpprofi.ru/blogs/post/24)
 - [CS50 от Гарварда](https://javarush.ru/quests/QUEST_HARVARD_CS50)
 - [Основы Linux от основателя Gentoo. Часть 1. (Остальные 3 части внизу)](https://habr.com/ru/post/99041/)
-- [Git для чайников. Работа в команде] (https://habr.com/ru/post/440816/)
+- [Git для чайников. Работа в команде](https://habr.com/ru/post/440816/)
 - [Конспекты книг от developer.uz](http://developer.uz)
 - [Семантическое версионирование](https://semver.org/lang/ru/)
 - [Как разобраться в Computer Science самостоятельно](https://tproger.ru/curriculum/computer-science-step-by-step/)
