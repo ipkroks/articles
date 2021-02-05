@@ -9,7 +9,6 @@
 - [PHPUnit для начинающих](https://phpprofi.ru/blogs/post/24)
 - [CS50 от Гарварда](https://javarush.ru/quests/QUEST_HARVARD_CS50)
 - [Основы Linux от основателя Gentoo. Часть 1. (Остальные 3 части внизу)](https://habr.com/ru/post/99041/)
-- [Git для чайников. Работа в команде](https://habr.com/ru/post/440816/)
 - [Конспекты книг от developer.uz](http://developer.uz)
 - [Семантическое версионирование](https://semver.org/lang/ru/)
 - [Как разобраться в Computer Science самостоятельно](https://tproger.ru/curriculum/computer-science-step-by-step/)
@@ -29,3 +28,10 @@
 Sublime text 3
 
 - [Как удалить пустые строчки в коде, написанном в SublimeText](http://blogo-daru.ru/2015/10/07/kak-udalit-pustye-strochki-v-kode-napisannom-v-sublimetext/)
+
+GIT
+
+- [Git снизу вверх](https://habr.com/ru/company/intel/blog/344962/)
+- [Машина времени в git](https://habr.com/ru/post/157175/)
+- [Как работает Git](https://habr.com/ru/post/313890/)
+- [Git для чайников. Работа в команде](https://habr.com/ru/post/440816/)
