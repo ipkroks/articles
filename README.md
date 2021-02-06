@@ -18,7 +18,7 @@
 Книги
 
 - [Рекомендуемые книги от Хекслет](https://github.com/ipkroks/articles/blob/master/Books.md)
-- [Рекомендуемые книги от Антона Кучерова](https://idexter.ru/books/)
+- [Рекомендуемые книги от Антона Кучерова](https://idexter.ru/read/)
 - [Рекомендуемые книги от Кирилла Мокевнина](https://github.com/mokevnin/railsify/wiki/Books)
 - [Книги от kaize](https://github.com/kaize/kaize.github.io/blob/master/pages/books.md)
 - [Лучшие книги по версии пользователей StackOverflow](http://www.dev-books.com)
