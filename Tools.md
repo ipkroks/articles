@@ -2,14 +2,14 @@ Must learn PHP Tools
 
 Code Style
 
--[PHP Coding Standards Fixer](https://cs.symfony.com/)
--[PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
--[StyleCI](https://styleci.io/)
+- [PHP Coding Standards Fixer](https://cs.symfony.com/)
+- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer)
+- [StyleCI](https://styleci.io/)
 
 Dependencies
 
--[Composer](https://getcomposer.org/)
--[Packagist](https://packagist.org/)
+- [Composer](https://getcomposer.org/)
+- [Packagist](https://packagist.org/)
 
 Static Analysis
 
