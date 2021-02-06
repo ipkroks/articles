@@ -211,3 +211,7 @@
 - SOA
 - CQRS/ES
 - Serverless
+
+## Original link
+
+- [https://miro.com/app/board/o9J_kikHwo4=/](https://miro.com/app/board/o9J_kikHwo4=/)
