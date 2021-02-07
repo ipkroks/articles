@@ -14,6 +14,7 @@
 - [Как разобраться в Computer Science самостоятельно](https://tproger.ru/curriculum/computer-science-step-by-step/)
 - [Блог хорошего программиста обо всем и C#](http://sergeyteplyakov.blogspot.com/)
 - [Блог Дмитрия Елисеева об архитектуре и PHP](https://elisdn.ru)
+- [Roadmap программистов](https://roadmap.sh/roadmaps)
 
 Книги
 
